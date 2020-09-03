@@ -1,2 +1,3 @@
 # nameTagGenerator
-Created with CodeSandbox
+A Name Tag Generator in React
+
